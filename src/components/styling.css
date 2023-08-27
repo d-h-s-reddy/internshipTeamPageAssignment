@@ -1,0 +1,113 @@
+.mainheader{
+    text-align:center;
+    background:linear-gradient(45deg, red, blue);
+    background-clip: text;
+    -webkit-background-clip: text; /* For Webkit-based browsers */
+    color: transparent;
+}
+hr{
+    width:150px;
+    border: 1px solid black;
+}
+.universityhead{
+    text-align:center;
+    background:linear-gradient(35deg, rgb(0, 255, 255), rgb(255, 0, 179));
+    background-clip: text;
+    -webkit-background-clip: text; /* For Webkit-based browsers */
+    color: transparent;
+}
+
+
+.carousel-container {
+    width: 100%;  
+    overflow: hidden; 
+    padding-bottom:1px;
+  }
+.imageslider{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding:20px;
+    height:100%;
+    width:100%;
+}
+.imageslider img{
+  width: 100%;
+  height: 400px;
+  border-radius: 10px;
+}
+.imageslider p{
+    text-align:center;
+    width: 100%;
+    height: 100%;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+
+
+
+.carousel-containerm {
+    display:flex;
+    width: 100%;  
+    overflow: hidden; 
+    padding-bottom:1px;
+  }
+  .imagesliderm{
+    flex-direction: column;
+    align-items: center; 
+    text-align: center; 
+    padding:20px;
+    height:100%;
+    width:512px;
+}
+.imagesliderm img{
+    width: 100%;
+    height: 300px;
+    border-radius: 100%;
+  }
+.name{
+      text-align:center;
+      width: 100%;
+      height: 100%;
+      font-weight: bold;
+      font-size: 20px;
+      margin-bottom:0px;
+  }
+  .title{
+    text-align:center;
+    width: 100%;
+    height: 100%;
+    font-size: 15px;
+}
+
+
+
+.founder{
+    width:800px;
+    justify-content: center;
+    align-items:center;   
+    display:flex;
+    margin-left:20%;
+    padding:20px;
+}
+.imagediv{
+    padding-right:30px;
+}
+.imagediv img{
+    height:300px;
+    width:300px;
+    border-radius:100%;
+}
+.founderdata{
+    padding-left:180px;
+}
+button{
+    font-size:15px;
+    border:2px solid black;
+    border-color:rebeccapurple;
+    background-color:rgb(170, 248, 248);
+    border-radius:10px;
+}
