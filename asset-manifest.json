@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/internshipTeamPageAssignment/static/css/main.c23b3ccd.css",
+    "main.js": "/internshipTeamPageAssignment/static/js/main.7cc3a3a2.js",
+    "static/js/787.c271efa7.chunk.js": "/internshipTeamPageAssignment/static/js/787.c271efa7.chunk.js",
+    "static/media/founder.jfif": "/internshipTeamPageAssignment/static/media/founder.64ba179d116c5f8bdcf6.jfif",
+    "static/media/cofounder.jfif": "/internshipTeamPageAssignment/static/media/cofounder.1d6053e615e86e9b4844.jfif",
+    "index.html": "/internshipTeamPageAssignment/index.html",
+    "main.c23b3ccd.css.map": "/internshipTeamPageAssignment/static/css/main.c23b3ccd.css.map",
+    "main.7cc3a3a2.js.map": "/internshipTeamPageAssignment/static/js/main.7cc3a3a2.js.map",
+    "787.c271efa7.chunk.js.map": "/internshipTeamPageAssignment/static/js/787.c271efa7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c23b3ccd.css",
+    "static/js/main.7cc3a3a2.js"
+  ]
+}
